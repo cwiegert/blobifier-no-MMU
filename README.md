@@ -5,11 +5,11 @@ The blob tray modications from [Blobifier for Voron ](https://www.printables.com
 Documentation found [Happy-Hare Repository](https://github.com/moggieuk/Happy-Hare/tree/main) with the original blobifier code [Here](https://github.com/moggieuk/Happy-Hare/tree/main/config/addons)
 
 
-The blobifier macro takes a parameter PURGE=\<length\>   
+The blobifier macro takes a parameter PURGE=\<length_length\>   
 
 Example
 ```
-blobifier purge=100
+blobifier purge_length=100
 ```
 
 Default length if no parameter passed is the purge_length setting in the blobifier.cfg. 
